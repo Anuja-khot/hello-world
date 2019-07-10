@@ -1,3 +1,3 @@
 # hello-world
 the first repository
-Intern anuja khot working o myanalytics project
+Intern anuja khot working on myanalytics project
